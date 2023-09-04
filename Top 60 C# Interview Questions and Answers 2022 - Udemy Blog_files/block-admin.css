@@ -1,0 +1,1 @@
+.wp-admin .no-block-preview{visibility:hidden;position:relative;min-height:80px}.wp-admin .no-block-preview:after{visibility:visible;position:absolute;top:0;left:0;font-style:italic;background:#ccc;padding:1em;content:"This block can't be previewed here.  Use edit mode or sidebar to edit this blocks properties.  Preview the page to view."}
